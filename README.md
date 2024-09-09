@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [I have completed a hotel project as part of an assignment, showcasing my ability to handle real-world projects. Additionally, I hold certificates from freeCodeCamp in Responsive Web Design and JavaScript Algorithms and Data Structures.](I have completed a hotel project as part of an assignment, showcasing my ability to handle real-world projects. Additionally, I hold certificates from freeCodeCamp in Responsive Web Design and JavaScript Algorithms and Data Structures.)
 
-- ⚡ Fun fact ** Exploring diverse cuisines is one of my favorite pastimes.**
+- ⚡ Fun fact **I derive significant joy and serenity from spending time with animals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
