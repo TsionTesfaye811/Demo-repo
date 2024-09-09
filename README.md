@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tsion Tesfaye Regassa</h1>
-<h3 align="center">A passionate full-stack developer from Ethiopia.</h3>
+<h3 align="center">A passionate frontend developer from Ethiopia.</h3>
 
 - 🔭 I’m currently working on **Raddison website**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [I regularly write articles on web development and programming languages.](I regularly write articles on web development and programming languages.)
 
-- 💬 Ask me about **Ask me about web development, databases, or programming challenges! I specialize in HTML, CSS, JavaScript, PHP, SQL Server, and MySQL and would love to discuss any related topics or questions you have.**
+- 💬 Ask me about **Ask me about web development, databases, or programming challenges! I specialize in HTML, CSS, JavaScript, , and would love to discuss any related topics or questions you have.**
 
 - 📫 How to reach me **tsionregassa042@gmail.com**
 
